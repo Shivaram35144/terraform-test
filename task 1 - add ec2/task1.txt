@@ -1,0 +1,1 @@
+1. Start a EC2 with a key pair and a sec grp

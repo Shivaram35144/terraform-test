@@ -5,3 +5,5 @@
 */*.tfstate.backup.*
 .terraform/
 .DS_Store
+*/task1keypair
+*.pub
